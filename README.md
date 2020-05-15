@@ -1,4 +1,4 @@
-# Email Spam Classifier
+#  Spam Email Classifier
 ## About Email Spam Classifier :  A Email-Spam_Classifier using Multinomial Naive Bayes Classifier 
 
 ### Dataset [link](https://drive.google.com/file/d/1HWbn1Vk42dO4ehohKw7RGbExHf1u8NLi/view?usp=sharing)
